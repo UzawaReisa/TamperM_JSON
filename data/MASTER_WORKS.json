@@ -71,9 +71,13 @@
       "ふずめ　宇沢の漫画",
       "ふずめ 宇沢レイサ 同人",
       "ふずめ 宇沢レイサ hentai",
+      "fuzume reisa danbooru",
+      "fuzume reisa gelbooru",
+      "gelbooru reisa \"fuzume\"",
       "\"[ふずめ] 宇沢レイサ\""
     ],
     "queryCore": [
+      "宇沢の漫画",
       "宇沢の漫画",
       "宇沢レイサ"
     ]
@@ -813,16 +817,28 @@
       "先生を思い出してオナニーしてるアオバちゃん"
     ]
   },
+  "メイドミドリ（発情期）": {
+    "description": "私の作品『メイドミドリ（発情期のネコかな…？）』の画像が当該サイトに無断で転載されています。",
+    "examples": [
+      "https://x.com/fuzume2/status/1912500680209887600/photo/1"
+    ],
+    "searchTerms": [
+      "fuzume, midori (blue archive)"
+    ],
+    "queryCore": [
+      "fuzume, midori (blue archive)"
+    ]
+  },
   "FANBOXヘッダー画像モナ": {
     "description": "私のウェブサイトのヘッダー画像「タイツが破れるモナ」が無断で使用されています。",
     "examples": [
       "https://fuzume.fanbox.cc/","https://www.pixiv.net/artworks/90254093"
     ],
     "searchTerms": [
-      "FANBOXヘッダー画像モナ"
+      "fuzume, mona"
     ],
     "queryCore": [
-      "FANBOXヘッダー画像モナ"
+      "fuzume, mona"
     ]
   },
   "今月の更新と今後の休止についてのお知らせ": {
@@ -839,5 +855,6 @@
   }
 
 }
+
 
 
