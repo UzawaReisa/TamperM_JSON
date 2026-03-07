@@ -574,7 +574,6 @@
 *://hmjwct.guru/*
 *://qkwkun.cam/*
 *://pakeqr.lat/*
-*://zqvwvl.surf/*
 *://knxslu.social/*
 *://dhyvcb.skin/*
 *://eprkzw.reviews/*
@@ -620,10 +619,6 @@
 *://best-ofd.ru/*
 *://www.csokirendeles.hu/*
 *://leinhz.surf/*
-*://hsnnup.network/*
-*://uoywze.work/*
-*://vtlphc.cafe/*
-*://transporthdswroclaw.pl/*
 *://kemono.cr/discord/*
 *://www.doujin-rpgfan.com/*
 *://www.office-mk.co.jp/*
@@ -714,3 +709,8 @@
 *://*.link/*
 *://*.garden/*
 *://*.ru/*
+*://*.surf/*
+*://*.network/*
+*://*.work/*
+*://*.cafe/*
+*://*.pl/*
