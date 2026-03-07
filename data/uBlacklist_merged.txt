@@ -686,6 +686,7 @@
 *://www.remagroup.sk/*
 *://www.jinken-library.jp/*
 *://appi-soft.ru/*
+*://*.bilibili.com/*
 *://ichinuke.com/*
 *://casual-shop.in.ua/*
 *://*.pornhub.com/*
